@@ -1,3 +1,27 @@
+# Como iniciar o projeto:
+
+Clone o repositório em sua máquina e acesse a pasta raiz do projeto e rodar o comando:
+```shell
+npm i
+```
+
+Depois acesse a pasta #view e digite o mesmo comando: 
+```shell
+npm i
+```
+
+O gerenciador de pacotes irá instalar todas as dependências seguindo o arquivo package.json. :package:
+
+Depois volte a pasta raiz do projeto e digite o comando:
+
+```shell
+npm start
+```
+
+
+pronto! O projeto irá iniciar
+
+
 # Quer ser desenvolvedor frontend na Webjump?
 Criamos este teste para avaliar seus conhecimentos e habilidades frontend (HTML, CSS e JavaScript).
 
